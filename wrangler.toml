@@ -9,7 +9,7 @@ BASE_URL = "https://invoie-hub.workers.dev"
 [[d1_databases]]
 binding = "DB"
 database_name = "deal-invoice-hub"
-database_id = "เอา-DATABASE-ID-จริง-มาใส่ตรงนี้"
+database_id = "fd7169c5-43e7-422d-b817-fc170bc46e23"
 
 [triggers]
 crons = ["*/30 * * * *"]
